@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhaysirohii/DSA-Question/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhaysirohii/DSA-Question/tree/master/0304-range-sum-query-2d-immutable) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhaysirohii/DSA-Question/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhaysirohii/DSA-Question/tree/master/0304-range-sum-query-2d-immutable) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->

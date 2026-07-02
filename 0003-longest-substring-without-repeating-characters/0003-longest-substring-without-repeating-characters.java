@@ -1,23 +1,23 @@
-import java.util.HashSet;
+import java.util.HashMap;
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        HashSet<Character> set = new HashSet<>();
+        // Map stores: Character -> Its index in the string
+        HashMap<Character, Integer> map = new HashMap<>();
         int left = 0;
         int max = 0;
         
         for (int right = 0; right < s.length(); right++) {
             char ch = s.charAt(right);
             
-            // If we find a duplicate, shrink from the left 
-            // until the older duplicate is kicked out of the set
-            while (set.contains(ch)) {
-                set.remove(s.charAt(left));
-                left++;
+            if (map.containsKey(ch)) {
+                // Move left to the right of the old duplicate's index.
+                // Math.max ensures left never moves backward if the duplicate is outside our window.
+                left = Math.max(left, map.get(ch) + 1);
             }
             
-            // Now it's safe to add the character and update max
-            set.add(ch);
+            // Update or insert the character's newest position
+            map.put(ch, right);
             max = Math.max(max, right - left + 1);
         }
         

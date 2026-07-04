@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhaysirohii/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhaysirohii/DSA-Question/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhaysirohii/DSA-Question/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |

@@ -6,10 +6,11 @@ class Solution {
            if(ch=='['|| ch=='{' || ch =='(' ){
             st.push(ch);
            }
-           else if(st.isEmpty()){
+           else {
+            if(st.isEmpty()){
             return false;
-           }
-           else{
+            }
+    
             char top =st.peek();
             if( (ch == ']' && top == '[') || 
                     (ch == '}' && top == '{') || 

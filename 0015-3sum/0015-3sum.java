@@ -1,9 +1,25 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result =new ArrayList<>();
+        int n = nums.length;
         Arrays.sort(nums);
         for(int i=0;i<nums.length-2;i++){
-            if(i>0 && nums[i]==nums[i-1]){
+            if (nums[i] > 0) {
+                break;
+            }
+            
+            // Skip duplicate values for the first element
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
+            
+            // Optimization 2: The smallest possible sum with this nums[i] is already > 0
+            if (nums[i] + nums[i + 1] + nums[i + 2] > 0) {
+                break;
+            }
+            
+            // Optimization 3: The largest possible sum with this nums[i] is still < 0
+            if (nums[i] + nums[n - 1] + nums[n - 2] < 0) {
                 continue;
             }
             int left= i+1;

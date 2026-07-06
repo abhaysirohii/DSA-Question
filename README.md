@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhaysirohii/DSA-Question/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhaysirohii/DSA-Question/tree/master/0304-range-sum-query-2d-immutable) |
+| [0704-binary-search](https://github.com/abhaysirohii/DSA-Question/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/abhaysirohii/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/abhaysirohii/DSA-Question/tree/master/1109-corporate-flight-bookings) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysirohii/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysirohii/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/abhaysirohii/DSA-Question/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |

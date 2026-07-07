@@ -1,26 +1,25 @@
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
-        // 1. Initialize max to the smallest possible value (handles negative numbers)
-        int max = Integer.MIN_VALUE; 
         int sum = 0;
-        int left = 0;
         
-        for (int right = 0; right < nums.length; right++) {
-            sum += nums[right];
-            
-            // 2. Fixed the window size calculation (right - left + 1)
-            int size = right - left + 1; 
-            
-            // 3. Once the window hits size k, check max and slide it forward
-            if (size == k) {
-                max = Math.max(max, sum);
-                
-                sum -= nums[left]; // Remove element leaving the window
-                left++;            // Move the left pointer forward
-            }
+        // 1. Initialize the sum of the first window (first k elements)
+        for (int i = 0; i < k; i++) {
+            sum += nums[i];
         }
         
-        // 4. Cast to double at the very end to prevent integer division from dropping decimals
-        return (double) max / k; 
+        // Start your max tracking with this first window's sum
+        int maxSum = sum;
+        
+        // 2. Slide the window across the rest of the array
+        for (int right = k; right < nums.length; right++) {
+            // Add the new element entering the window, subtract the one leaving
+            sum += nums[right] - nums[right - k]; 
+            
+            // Track the maximum sum found
+            maxSum = Math.max(maxSum, sum);
+        }
+        
+        // 3. Convert to double at the very end to keep precision
+        return (double) maxSum / k;
     }
 }

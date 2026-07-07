@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhaysirohii/DSA-Question/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhaysirohii/DSA-Question/tree/master/0304-range-sum-query-2d-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/abhaysirohii/DSA-Question/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/abhaysirohii/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abhaysirohii/DSA-Question/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysirohii/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/abhaysirohii/DSA-Question/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |

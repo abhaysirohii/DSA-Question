@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhaysirohii/DSA-Question/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhaysirohii/DSA-Question/tree/master/0304-range-sum-query-2d-immutable) |
+| [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/abhaysirohii/DSA-Question/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/abhaysirohii/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/abhaysirohii/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
@@ -93,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhaysirohii/DSA-Question/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhaysirohii/DSA-Question/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |

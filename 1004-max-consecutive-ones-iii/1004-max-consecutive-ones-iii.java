@@ -1,6 +1,5 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        int size =0;
         int max =0;
         int left=0;
         int n= nums.length;
@@ -15,8 +14,7 @@ class Solution {
                 }
                 left++;
             }
-            size=right-left+1;
-            max=Math.max(max,size);
+            max=Math.max(max,right-left+1);
         }
         return max;
     }

@@ -9,9 +9,11 @@ class Solution {
             f1[s1.charAt(i)-'a']+=1;
             f2[s2.charAt(i)-'a']+=1;
         } 
-        if(Arrays.equals(f1,f2)){
-            return true;
+        int matches = 0;
+        for (int i = 0; i < 26; i++) {
+            if (f1[i] == f2[i]) matches++;
         }
+        if (matches == 26) return true;
         for(int i=s1.length();i<s2.length();i++){
             f2[s2.charAt(i)-'a']+=1;
             f2[s2.charAt(i-s1.length())-'a']-=1;

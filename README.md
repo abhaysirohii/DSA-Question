@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abhaysirohii/DSA-Question/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/abhaysirohii/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhaysirohii/DSA-Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhaysirohii/DSA-Question/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
@@ -152,9 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhaysirohii/DSA-Question/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhaysirohii/DSA-Question/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

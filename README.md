@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysirohii/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysirohii/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhaysirohii/DSA-Question/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhaysirohii/DSA-Question/tree/master/0304-range-sum-query-2d-immutable) |
 | [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysirohii/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysirohii/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/abhaysirohii/DSA-Question/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhaysirohii/DSA-Question/tree/master/1004-max-consecutive-ones-iii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhaysirohii/DSA-Question/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhaysirohii/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhaysirohii/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 ## Data Stream
 |  |
 | ------- |
@@ -198,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhaysirohii/DSA-Question/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

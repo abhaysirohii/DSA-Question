@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhaysirohii/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/abhaysirohii/DSA-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Data Stream
 |  |
 | ------- |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/abhaysirohii/DSA-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

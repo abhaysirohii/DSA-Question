@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaysirohii/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhaysirohii/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysirohii/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhaysirohii/DSA-Question/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysirohii/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhaysirohii/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysirohii/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhaysirohii/DSA-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhaysirohii/DSA-Question/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0567-permutation-in-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhaysirohii/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhaysirohii/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/abhaysirohii/DSA-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhaysirohii/DSA-Question/tree/master/3658-gcd-of-odd-and-even-sums) |

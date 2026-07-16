@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhaysirohii/DSA-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/abhaysirohii/DSA-Question/tree/master/1109-corporate-flight-bookings) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhaysirohii/DSA-Question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaysirohii/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhaysirohii/DSA-Question/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0567-permutation-in-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaysirohii/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaysirohii/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhaysirohii/DSA-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaysirohii/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
 |  |
 | ------- |
@@ -215,4 +219,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhaysirohii/DSA-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaysirohii/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaysirohii/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

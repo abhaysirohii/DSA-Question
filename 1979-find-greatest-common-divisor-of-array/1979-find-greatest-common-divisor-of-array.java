@@ -1,8 +1,15 @@
 class Solution {
     public int findGCD(int[] nums) {
-        Arrays.sort(nums);
         int low = nums[0];
-        int high = nums[nums.length-1];
+        int high = nums[0];
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]<low){
+                low=nums[i];
+            }
+            if(nums[i]>high){
+                high=nums[i];
+            }
+        }
         return gcd(low,high);
         
     }

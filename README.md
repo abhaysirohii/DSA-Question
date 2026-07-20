@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhaysirohii/DSA-Question/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaysirohii/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/abhaysirohii/DSA-Question/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhaysirohii/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysirohii/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhaysirohii/DSA-Question/tree/master/0189-rotate-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 ## Number Theory
 |  |

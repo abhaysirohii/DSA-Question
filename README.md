@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhaysirohii/DSA-Question/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/abhaysirohii/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysirohii/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhaysirohii/DSA-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/abhaysirohii/DSA-Question/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/abhaysirohii/DSA-Question/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhaysirohii/DSA-Question/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhaysirohii/DSA-Question/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhaysirohii/DSA-Question/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/abhaysirohii/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0682-baseball-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaysirohii/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

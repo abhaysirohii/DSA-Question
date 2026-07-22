@@ -9,44 +9,48 @@
  * }
  */
 class Solution {
-    public ListNode sortList(ListNode head) {
-        if(head==null || head.next==null){
-            return head;
-        }
-        ListNode prev=null;
+    public ListNode getmid(ListNode head){
         ListNode slow=head;
-        ListNode fast=head;
-
+        ListNode fast=head.next;
         while(fast!=null && fast.next!=null){
-            prev=slow;
-            slow=slow.next;
             fast=fast.next.next;
+            slow=slow.next;
         }
-        prev.next=null;
-        ListNode l1=sortList(head);
-        ListNode l2=sortList(slow);
-        return merge(l1,l2);
+        return slow;
     }
-    private ListNode merge(ListNode l1,ListNode l2){
+    public ListNode merge(ListNode l1,ListNode l2){
         ListNode dummy = new ListNode(0);
-        ListNode curr=dummy;
-
+        ListNode tail=dummy;
         while(l1!=null && l2!=null){
-            if(l1.val <=l2.val){
-                curr.next=l1;
+            if(l1.val<=l2.val){
+                tail.next=l1;
                 l1=l1.next;
             }else{
-                curr.next=l2;
+                tail.next=l2;
                 l2=l2.next;
             }
-            curr=curr.next;
+            tail=tail.next;
         }
-        if(l1!=null){
-            curr.next=l1;
+        while(l1!=null){
+            tail.next=l1;
+            l1=l1.next;
+            tail=tail.next;
         }
-        else if(l2!=null){
-            curr.next=l2;
+        while(l2!=null){
+            tail.next=l2;
+            l2=l2.next;
+            tail=tail.next;
         }
         return dummy.next;
+    }
+    public ListNode sortList(ListNode head) {
+        if(head==null || head.next==null) return head;
+        ListNode mid=getmid(head);
+        ListNode righthead=mid.next;
+        mid.next=null;
+        ListNode l1 =sortList(head);
+        ListNode l2= sortList(righthead);
+        return merge(l1,l2);
+        
     }
 }

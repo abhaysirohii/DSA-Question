@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysirohii/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhaysirohii/DSA-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhaysirohii/DSA-Question/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0876-middle-of-the-linked-list) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhaysirohii/DSA-Question/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhaysirohii/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhaysirohii/DSA-Question/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0682-baseball-game) |
@@ -223,12 +225,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhaysirohii/DSA-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhaysirohii/DSA-Question/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |

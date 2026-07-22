@@ -31,16 +31,8 @@ class Solution {
             }
             tail=tail.next;
         }
-        while(l1!=null){
-            tail.next=l1;
-            l1=l1.next;
-            tail=tail.next;
-        }
-        while(l2!=null){
-            tail.next=l2;
-            l2=l2.next;
-            tail=tail.next;
-        }
+        if (l1 != null) tail.next = l1;
+        if (l2 != null) tail.next = l2;
         return dummy.next;
     }
     public ListNode sortList(ListNode head) {

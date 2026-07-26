@@ -5,8 +5,7 @@ class Solution {
         int max3=Integer.MIN_VALUE;
         int min1=Integer.MAX_VALUE;
         int min2=Integer.MAX_VALUE;
-        for(int i=0;i<nums.length;i++){
-            int curr = nums[i];
+        for(int curr:nums){
             if (curr > max1) {
                 max3 = max2;
                 max2 = max1;

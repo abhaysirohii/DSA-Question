@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/abhaysirohii/DSA-Question/tree/master/0304-range-sum-query-2d-immutable) |
 | [0496-next-greater-element-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhaysirohii/DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/abhaysirohii/DSA-Question/tree/master/0704-binary-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaysirohii/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaysirohii/DSA-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhaysirohii/DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhaysirohii/DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaysirohii/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhaysirohii/DSA-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhaysirohii/DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhaysirohii/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhaysirohii/DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhaysirohii/DSA-Question/tree/master/3658-gcd-of-odd-and-even-sums) |

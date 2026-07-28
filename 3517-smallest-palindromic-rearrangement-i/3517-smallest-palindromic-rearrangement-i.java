@@ -6,18 +6,25 @@ class Solution {
             char curr=s.charAt(i);
             ch[curr-'a']++;
         }
-        StringBuilder left= new StringBuilder();
-        String middle="";
-        for(int i=0;i<26;i++){
-            for(int j=0;j<ch[i]/2;j++){
-                left.append((char) ('a'+i));
-            }
-            if(ch[i]%2==1){
-                middle=String.valueOf((char) ('a'+i));
+       char[] res= new char[s.length()];
+       int left=0;
+       int right=s.length()-1;
+       for(int i=0;i<26;i++){
+           while(ch[i]>=2){
+            char c=(char) ('a' + i);
+            res[left]=c;
+            res[right]=c;
+            left++;
+            right--;
+            ch[i]-=2;
             }
         }
-        String right=new StringBuilder(left).reverse().toString();
-
-        return left.toString()+middle+right;
+        for(int i=0;i<26;i++){
+            if(ch[i]==1){
+                res[left]=(char) ('a'+i);
+                break;
+            }
+        }
+        return new String(res);
     }
 }

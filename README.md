@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhaysirohii/DSA-Question/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/abhaysirohii/DSA-Question/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhaysirohii/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhaysirohii/DSA-Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhaysirohii/DSA-Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhaysirohii/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaysirohii/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhaysirohii/DSA-Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhaysirohii/DSA-Question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaysirohii/DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhaysirohii/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaysirohii/DSA-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhaysirohii/DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/abhaysirohii/DSA-Question/tree/master/0175-combine-two-tables) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -6,7 +6,11 @@ class Solution {
         while(temp>0){
             int curr=temp%10;
             sum+=curr;
+            if(curr==0){
+                product=0;
+            }else{
             product*=curr;
+            }
             temp/=10;
         }
 

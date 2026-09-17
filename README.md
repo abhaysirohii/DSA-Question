@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/abhaysirohii/DSA-Question/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/abhaysirohii/DSA-Question/tree/master/1179-reformat-department-table) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhaysirohii/DSA-Question/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/abhaysirohii/DSA-Question/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Game Theory
 |  |
 | ------- |

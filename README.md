@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/abhaysirohii/DSA-Question/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/abhaysirohii/DSA-Question/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/abhaysirohii/DSA-Question/tree/master/0511-game-play-analysis-i) |
+| [1045-customers-who-bought-all-products](https://github.com/abhaysirohii/DSA-Question/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/abhaysirohii/DSA-Question/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/abhaysirohii/DSA-Question/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/abhaysirohii/DSA-Question/tree/master/1179-reformat-department-table) |

@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhaysirohii/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/abhaysirohii/DSA-Question/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/abhaysirohii/DSA-Question/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhaysirohii/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/abhaysirohii/DSA-Question/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/abhaysirohii/DSA-Question/tree/master/0901-online-stock-span) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhaysirohii/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhaysirohii/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

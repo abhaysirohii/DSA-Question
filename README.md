@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhaysirohii/DSA-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaysirohii/DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhaysirohii/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
@@ -416,4 +418,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhaysirohii/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

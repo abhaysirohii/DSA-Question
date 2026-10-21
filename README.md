@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhaysirohii/DSA-Question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaysirohii/DSA-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhaysirohii/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaysirohii/DSA-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhaysirohii/DSA-Question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhaysirohii/DSA-Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhaysirohii/DSA-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhaysirohii/DSA-Question/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/abhaysirohii/DSA-Question/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhaysirohii/DSA-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaysirohii/DSA-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaysirohii/DSA-Question/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaysirohii/DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaysirohii/DSA-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaysirohii/DSA-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaysirohii/DSA-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhaysirohii/DSA-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |

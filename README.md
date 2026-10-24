@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/abhaysirohii/DSA-Question/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhaysirohii/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaysirohii/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/abhaysirohii/DSA-Question/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhaysirohii/DSA-Question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaysirohii/DSA-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaysirohii/DSA-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhaysirohii/DSA-Question/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhaysirohii/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/abhaysirohii/DSA-Question/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/abhaysirohii/DSA-Question/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaysirohii/DSA-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhaysirohii/DSA-Question/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhaysirohii/DSA-Question/tree/master/3345-smallest-divisible-digit-product-i) |
